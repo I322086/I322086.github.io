@@ -2,7 +2,7 @@
   "name": "self-certificate",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://i322086.github.io/self-certificate/",
+  "homepage":"https://github.wdf.sap.corp/pages/I322086/self-certificate/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
